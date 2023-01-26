@@ -1,0 +1,15 @@
+/Users/a007/Projects/testforwork/testforwork/bin/Debug/net7.0/testforwork
+/Users/a007/Projects/testforwork/testforwork/bin/Debug/net7.0/testforwork.deps.json
+/Users/a007/Projects/testforwork/testforwork/bin/Debug/net7.0/testforwork.runtimeconfig.json
+/Users/a007/Projects/testforwork/testforwork/bin/Debug/net7.0/testforwork.dll
+/Users/a007/Projects/testforwork/testforwork/bin/Debug/net7.0/testforwork.pdb
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/testforwork.csproj.AssemblyReference.cache
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/testforwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/testforwork.AssemblyInfoInputs.cache
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/testforwork.AssemblyInfo.cs
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/testforwork.csproj.CoreCompileInputs.cache
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/testforwork.dll
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/refint/testforwork.dll
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/testforwork.pdb
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/testforwork.genruntimeconfig.cache
+/Users/a007/Projects/testforwork/testforwork/obj/Debug/net7.0/ref/testforwork.dll
